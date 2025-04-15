@@ -57,12 +57,12 @@
 ## Take a look at my projects <img style="vertical-align:bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 [![GitHub Repository](https://img.shields.io/badge/Github%20Repository-black?style=flat&logo=github&labelColor=black&color=blue)](https://github.com/lindaluu13/odin-recipes)
-[![Overview](https://img.shields.io/badge/Page%20Overview-purple?style=flat)](https://lindaluu13.github.io/odin-recipes/index.html) - The Odin Project : Recipe website. A recipe website following The Odin Project's instructions, using HTML and a bit of CSS.
+[![Overview](https://img.shields.io/badge/Page%20Overview-purple?style=flat)](https://lindaluu13.github.io/odin-recipes/index.html) - The Odin Project : Recipe website. A website following The Odin Project's instructions, using HTML and a bit of CSS.
 
 [![GitHub Repository](https://img.shields.io/badge/Github%20Repository-black?style=flat&logo=github&labelColor=black&color=blue)](https://github.com/lindaluu13/landing-page)
 [![Overview](https://img.shields.io/badge/Page%20Overview-purple?style=flat)](https://lindaluu13.github.io/landing-page/index.html) - The Odin Project : Landing page. A webpage built using HTML and CSS based on an image.
 
-[![GitHub Repository](https://img.shields.io/badge/Github%20Repository-black?style=flat&logo=github&labelColor=black&color=blue)](https://github.com/lindaluu13/css-exercises) - The Odin Project : Css Exercices. A serie of CSS exercices to complete using instructions given by The Odin Project.
+[![GitHub Repository](https://img.shields.io/badge/Github%20Repository-black?style=flat&logo=github&labelColor=black&color=blue)](https://github.com/lindaluu13/css-exercises) - The Odin Project : Css Exercices. A series of CSS exercices to complete, using instructions given by The Odin Project.
 
 [![SignOz](https://img.shields.io/badge/Sign&Oz-darkgreen?style=flat&)](https://signoz.org/) - Sign&Oz's website; where deaf students can book and view different extracurricular courses. UI / UX design via Figma. Development using Elementor Pro.
 

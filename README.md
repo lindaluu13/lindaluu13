@@ -54,12 +54,8 @@
 
 ## GitHub Stats
 
-<!--START_SECTION:linda-->
-
-<!--END_SECTION:linda-->
-
   <img alt="lindaluu13's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lindaluu13&show_icons=true&hide_border=false&hide=contribs&show=prs_merged,prs_merged_percentage&title_color=bd93f9&icon_color=ffb86c&bg_color=282a36&text_color=f8f8f2&border_color=44475a"/>
   
 <br>
 
-**CREDITS: These README stats are generated using github action by [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats) & [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**
+**CREDITS: These README stats are generated using github action by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**

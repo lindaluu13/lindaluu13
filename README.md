@@ -56,6 +56,8 @@
 
 ## Take a look at my projects <img style="vertical-align:bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
+[![GitHub Repository](https://img.shields.io/badge/Github%20Repository-black?style=flat&logo=github&labelColor=black&color=blue)](https://github.com/lindaluu13/task-management) - A full stack task management web application. Each user can sign up, log in, and manage their personal task list. Vue.js, Flask (Python), API REST, JWT.
+
 [![GitHub Repository](https://img.shields.io/badge/Github%20Repository-black?style=flat&logo=github&labelColor=black&color=blue)](https://github.com/lindaluu13/odin-recipes)
 [![Overview](https://img.shields.io/badge/Page%20Overview-purple?style=flat)](https://lindaluu13.github.io/odin-recipes/index.html) - The Odin Project : Recipe website. A website following The Odin Project's instructions, using HTML and a bit of CSS.
 
